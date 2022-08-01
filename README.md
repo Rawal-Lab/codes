@@ -10,9 +10,8 @@ The python code uses Biopython for parsing the input fasta file.
 
 Download and install Biopython 
     
-    _pip_ _install_ biopython
-
-
+    pip install biopython
     
-
-            
+Upgrade
+    
+    pip install biopython --upgrade 
