@@ -1,4 +1,4 @@
-# codes
+# README
 
 This repository contains exclusive codes for screening multiple protein sequences. 
 
